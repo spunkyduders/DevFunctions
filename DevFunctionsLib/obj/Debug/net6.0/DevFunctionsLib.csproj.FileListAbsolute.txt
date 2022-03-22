@@ -1,0 +1,12 @@
+D:\PROJECTS\DevFunctions\DevFunctionsLib\bin\Debug\net6.0\DevFunctionsLib.deps.json
+D:\PROJECTS\DevFunctions\DevFunctionsLib\bin\Debug\net6.0\DevFunctionsLib.dll
+D:\PROJECTS\DevFunctions\DevFunctionsLib\bin\Debug\net6.0\DevFunctionsLib.pdb
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\DevFunctionsLib.csproj.AssemblyReference.cache
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\DevFunctionsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\DevFunctionsLib.AssemblyInfoInputs.cache
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\DevFunctionsLib.AssemblyInfo.cs
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\DevFunctionsLib.csproj.CoreCompileInputs.cache
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\DevFunctionsLib.dll
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\refint\DevFunctionsLib.dll
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\DevFunctionsLib.pdb
+D:\PROJECTS\DevFunctions\DevFunctionsLib\obj\Debug\net6.0\ref\DevFunctionsLib.dll
